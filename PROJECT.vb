@@ -1,6 +1,6 @@
 ﻿Imports System.IO
-
-Public Class PROJECT
+//import system.io file
+Public Class PROJECT 
 
     Dim var1 As Double
     Dim var2 As Double
